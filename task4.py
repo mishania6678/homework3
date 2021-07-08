@@ -9,4 +9,4 @@ def power(x, y):
 num1, num2 = int(input()), int(input())
 print(power(num1, num2))
 
-# test2
+# test1

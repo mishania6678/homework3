@@ -6,5 +6,5 @@ def two_max_sum(a, b, c):
 num1, num2, num3 = map(int, input().split())
 print(two_max_sum(num1, num2, num3))
 
-# test2
+# test1
 
