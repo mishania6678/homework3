@@ -10,4 +10,4 @@ while True:
         counter += 1
     row += input(f'Продолжите ряд {" ".join(row)} ').strip().split()
 
-# test1
+# test2
