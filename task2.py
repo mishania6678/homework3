@@ -9,3 +9,5 @@ print(person_data(name=input('Введите свое имя:'),
                   city=input('Введите свой город прроживания:'),
                   email=input('Введите свой e-mail:'),
                   phone_number=input('Введите свой номер телефона:')))
+
+#test1

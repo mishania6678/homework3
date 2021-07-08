@@ -9,3 +9,5 @@ while True:
         summ += int(row[counter])
         counter += 1
     row += input(f'Продолжите ряд {" ".join(row)} ').strip().split()
+
+# test1
